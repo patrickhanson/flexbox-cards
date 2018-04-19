@@ -21,7 +21,7 @@ html {
     /* display, flex-direction, justify-content, align-items */
     padding: 15px 0;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
